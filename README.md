@@ -5,6 +5,7 @@
  
  [Folder where the script is] –> "Springer Link" —> [Language] —> [Subdiscipline] —> [Title] —> [Year (only if it applies)] —> [Book (PDF and/or EPUB)]
 
+
  The following libraries need to be installed:
  + csv
  + numpy
